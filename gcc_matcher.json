@@ -2,6 +2,7 @@
     "problemMatcher": [
         {
             "owner": "gcc-problem-matcher",
+            "fromPath": "/app/"
             "pattern": [
                 {
                     "regexp": "^(.*?):(\\d+):(\\d*):?\\s+(?:fatal\\s+)?(warning|error):\\s+(.*)$",
